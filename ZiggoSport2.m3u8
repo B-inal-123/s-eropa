@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+http://nks24.com:8080/play/live.php?mac=00:1A:79:4D:05:8A&stream=247188&extension=ts&play_token=nDMtuJaKA1
+http://tvc.raam.re:2082/ilhampa251121/00:7c:2d:1e:eb:43/395
