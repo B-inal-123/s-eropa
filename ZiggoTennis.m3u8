@@ -2,4 +2,4 @@
 #EXT-X-TARGETDURATION:0.1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:0.1,
-http://tvc.raam.re:2082/ilhampa251121/00:7c:2d:1e:eb:43/75652
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:AA:75:04&stream=591277&extension=ts&play_token=wZeyHo2tQL
