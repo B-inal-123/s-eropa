@@ -2,4 +2,5 @@
 #EXT-X-TARGETDURATION:0.1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:0.1,
+http://ares-tv.xyz:8080/play/live.php?mac=00:1A:79:AA:75:04&stream=568607&extension=ts&play_token=uNf6OxO04l
 http://iptvde.de:8080/OsmanTokmak/fgxgthus/111716
