@@ -5,4 +5,4 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=5300000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://d66344b2.cbilant.com/iptv/EV3W6F6ANUCGYL/7264/index.m3u8
+http://bouygues.r1v.us:7070/live/oumourougrouza2024/093m2z9x/171190.m3u8
