@@ -4,5 +4,4 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXTINF:1,
-http://kstv.us:8080/BWxD9XBSgz/2859225324/47852
-http://kstv.us:8080/Clemg30/0573693077/47852
+http://tv.cloudcdn.me:80/live.ts?channelId=269&uid=15301&deviceMac=00:1A:79:07:07:43
