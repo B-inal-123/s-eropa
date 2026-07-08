@@ -6,5 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://85.14.32.26:8800/udp/239.100.10.141:5000
-http://cmskos.bekaks.net:777/valard_klient2/PhcWLtKTuc/648
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:DC:77:6D&stream=465897&extension=ts&play_token=VmPk5McZpt
