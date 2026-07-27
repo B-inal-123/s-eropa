@@ -6,4 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://77.46.130.252:99/maxsport4
+http://boss.ddns.net:80/play/live.php?mac=10:27:BE:2F:4D:AF&stream=83257&extension=ts&play_token=uKLhjjeyHd
