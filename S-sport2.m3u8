@@ -5,4 +5,4 @@
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:46
 #EXTINF:4.800,
-http://vpn.rivostv.space:80/live/b87ed4b5/ab28e6b6/1288111.ts
+http://boss.ddns.net:80/play/live.php?mac=10:27:BE:2F:4D:AF&stream=913377&extension=ts&play_token=0dqi6ibHeO
