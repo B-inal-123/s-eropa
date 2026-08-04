@@ -5,4 +5,4 @@
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:46
 #EXTINF:4.800,
-http://boss.ddns.net:80/play/live.php?mac=10:27:BE:2F:4D:AF&stream=913370&extension=ts&play_token=UThRwphm6s
+http://128.0.104.31:80/live.ts?channelId=130103&uid=4621&deviceMac=00:1A:79:17:BF:CE
